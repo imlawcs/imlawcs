@@ -1,3 +1,9 @@
+Hi 👋 My name is Dao Le Hanh Nguyen
+===================================
+
+🏫 I’m currently studying at Da Nang University of Science and Technology<br>
+* ✉️  You can contact me at [daolehanhnguyen@gmail.com](mailto:daolehanhnguyen@gmail.com)
+
 ### Skills
 
 
