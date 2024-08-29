@@ -80,8 +80,12 @@
   <a href="https://www.linkedin.com/in/daolehanhnguyen/" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" alt="https://www.linkedin.com/in/daolehanhnguyen/" height="30" width="40" />
   </a>
-</p
+</p>
   
 ### My GitHub Stats
 
+<a href="http://www.github.com/imlawcs"><img src="https://github-readme-stats.vercel.app/api?username=imlawcs&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="imlawcs's GitHub stats" /></a>
+<a href="http://www.github.com/imlawcs"><img src="https://github-readme-streak-stats.herokuapp.com/?user=imlawcs&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
+</a>
+<a href="https://github.com/imlawcs" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imlawcs&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
