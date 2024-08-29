@@ -70,7 +70,7 @@
 
 ### Socials
 
-<p>
+<p align="center">
   <a href="https://github.com/imlawcs" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/github.svg" alt="https://github.com/imlawcs" height="30" width="40" />
   </a>
