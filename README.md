@@ -84,7 +84,7 @@
   
 ### My GitHub Stats
 
-<table>
+<table align="center">
   <tr>
     <td>
       <a href="http://www.github.com/imlawcs">
