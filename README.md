@@ -8,10 +8,10 @@
 
 ----------------
 
-<p align="center">
+<div align="center">
 🏫 I’m currently studying at Da Nang University of Science and Technology<br>
 ✉️ You can contact me at [daolehanhnguyen@gmail.com](mailto:daolehanhnguyen@gmail.com)
-</p>
+</div>
 
 ### My Skills
 
