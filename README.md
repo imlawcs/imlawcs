@@ -9,8 +9,8 @@
 ----------------
 
 <div align="center">
-🏫 I’m currently studying at Da Nang University of Science and Technology<br>
-✉️ You can contact me at [daolehanhnguyen@gmail.com](mailto:daolehanhnguyen@gmail.com)
+🏫 I’m currently studying at Da Nang University of Science and Technology  
+✉️ You can contact me at [daolehanhnguyen@gmail.com](mailto:daolehanhnguyen@gmail.com)
 </div>
 
 ### My Skills
