@@ -5,7 +5,7 @@
 </p>
 
 
--------------------------------
+----------------
 
 <p align="center">
 🏫 I’m currently studying at Da Nang University of Science and Technology<br>
